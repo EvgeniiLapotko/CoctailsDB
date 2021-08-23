@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CoctailsDB/static/css/main.330bd8d4.chunk.css",
+    "main.js": "/CoctailsDB/static/js/main.78aea5b0.chunk.js",
+    "main.js.map": "/CoctailsDB/static/js/main.78aea5b0.chunk.js.map",
+    "runtime-main.js": "/CoctailsDB/static/js/runtime-main.7dcc90fd.js",
+    "runtime-main.js.map": "/CoctailsDB/static/js/runtime-main.7dcc90fd.js.map",
+    "static/css/2.3c526f5d.chunk.css": "/CoctailsDB/static/css/2.3c526f5d.chunk.css",
+    "static/js/2.1b98083b.chunk.js": "/CoctailsDB/static/js/2.1b98083b.chunk.js",
+    "static/js/2.1b98083b.chunk.js.map": "/CoctailsDB/static/js/2.1b98083b.chunk.js.map",
+    "index.html": "/CoctailsDB/index.html",
+    "static/css/2.3c526f5d.chunk.css.map": "/CoctailsDB/static/css/2.3c526f5d.chunk.css.map",
+    "static/css/main.330bd8d4.chunk.css.map": "/CoctailsDB/static/css/main.330bd8d4.chunk.css.map",
+    "static/js/2.1b98083b.chunk.js.LICENSE.txt": "/CoctailsDB/static/js/2.1b98083b.chunk.js.LICENSE.txt",
+    "static/media/logo.5bb3b58e.svg": "/CoctailsDB/static/media/logo.5bb3b58e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dcc90fd.js",
+    "static/css/2.3c526f5d.chunk.css",
+    "static/js/2.1b98083b.chunk.js",
+    "static/css/main.330bd8d4.chunk.css",
+    "static/js/main.78aea5b0.chunk.js"
+  ]
+}
